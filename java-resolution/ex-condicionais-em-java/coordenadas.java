@@ -37,7 +37,6 @@ public class Main {
 		else if (y == 0) {
 			System.out.println("Eixo X");
 		}
-		
 		sc.close();
 	}
 }

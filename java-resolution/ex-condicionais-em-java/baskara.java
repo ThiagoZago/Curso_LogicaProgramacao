@@ -30,7 +30,6 @@ public class Main {
 			System.out.println("X1 = " + String.format("%.4f", X1));
 			System.out.println("X2 = " + String.format("%.4f", X2));
 		}
-		
 		sc.close();
 	}
 }
